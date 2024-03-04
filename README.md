@@ -30,7 +30,7 @@ To use this web crawler script, follow the steps below:
 1. **Launch the Script**: 
    Open your terminal or command prompt, navigate to the directory containing the script, and execute it with Python by running:
 	  ```sh
-   python crawler_script.py
+   python zSpider.py
 	```
 2.	**Enter Required Input:**
 	After execution, the script will prompt you for two inputs:
